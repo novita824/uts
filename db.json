@@ -1,0 +1,11 @@
+{
+    "makanan" : [
+        {
+            "userId" : 1,
+            "id" : 1,
+            "nama" : "Seblak",
+            "keterangan" : "Makanan pedas kuah yang terdapat kerupuk, sosis, bakso, dan ceker",
+            "harga" : 10.000
+        }
+    ]
+}
